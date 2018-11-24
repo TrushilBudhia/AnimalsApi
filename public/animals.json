@@ -1,0 +1,238 @@
+[
+  {
+    "id": 1,
+    "name": "Affenpinscher",
+    "size": 1,
+    "lowShedding": 5,
+    "easyToGroom": 3,
+    "highEnergy": 4,
+	"goodHealth": 4,
+	"lowBarking": 4,
+	"intelligence": 4,
+	"easyToTrain": 2,
+    "Friendliness": {
+      "kids": 1,
+      "otherDogs": 1
+    },
+    "tolerates": {
+      "hot": 3,
+      "cold": 3
+    },
+    "notes": [
+      "dsfdsfdsfdfs",
+      "dsfdsfdsfdfs",
+      "qq",
+      "www",
+      "eee",
+      "Hi Espen"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Afghan Hound",
+    "size": 4,
+    "lowShedding": 2,
+    "easyToGroom": 1,
+    "highEnergy": 5,
+	"goodHealth": 3,
+	"lowBarking": 4,
+	"intelligence": 4,
+	"easyToTrain": 1,
+    "Friendliness": {
+      "kids": 5,
+      "otherDogs": 5
+    },
+    "tolerates": {
+      "hot": 5,
+      "cold": 5
+    },
+    "notes": [
+      "note 1",
+      "note 2",
+      "note 3",
+      "note 4",
+      "note  5",
+      "note  6",
+      "note  7",
+      "note  8",
+      "note  9",
+      "note 10",
+      "note 11",
+      "note 12",
+      "note 13",
+      "note 14"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Airedale Terrier",
+    "size": 4,
+    "lowShedding": 4,
+    "easyToGroom": 2,
+    "highEnergy": 5,
+	"goodHealth": 3,
+	"lowBarking": 2,
+	"intelligence": 5,
+	"easyToTrain": 4,
+    "Friendliness": {
+      "kids": 4,
+      "otherDogs": 4
+    },
+    "tolerates": {
+      "hot": 3,
+      "cold": 3
+    },
+    "notes": []
+  },
+  {
+    "id": 4,
+    "name": "Akita",
+    "size": 4,
+    "lowShedding": 1,
+    "easyToGroom": 1,
+    "highEnergy": 4,
+	"goodHealth": 4,
+	"lowBarking": 1,
+	"intelligence": 3,
+	"easyToTrain": 2,
+    "Friendliness": {
+      "kids": 1,
+      "otherDogs": 1
+    },
+    "tolerates": {
+      "hot": 2,
+      "cold": 5
+    },
+    "notes": [
+      "People argue whether this is really an animal or not..."
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Alaskan Malamute",
+    "size": 4,
+    "lowShedding": 1,
+    "easyToGroom": 1,
+    "highEnergy": 5,
+	"goodHealth": 4,
+	"lowBarking": 1,
+	"intelligence": 4,
+	"easyToTrain": 4,
+    "Friendliness": {
+      "kids": 3,
+      "otherDogs": 3
+    },
+    "tolerates": {
+      "hot": 2,
+      "cold": 5
+    },
+    "notes": [
+      "Eats eggs"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "American English Coonhound",
+    "size": 4,
+    "lowShedding": 3,
+    "easyToGroom": 5,
+    "highEnergy": 5,
+	"goodHealth": 4,
+	"lowBarking": 1,
+	"intelligence": 4,
+	"easyToTrain": 5,
+    "Friendliness": {
+      "kids": 5,
+      "otherDogs": 5
+    },
+    "tolerates": {
+      "hot": 4,
+      "cold": 4
+    },
+    "notes": []
+  },
+  {
+    "id": 7,
+    "name": "American Eskimo Dog",
+    "size": 2,
+    "lowShedding": 1,
+    "easyToGroom": 3,
+    "highEnergy": 5,
+	"goodHealth": 5,
+	"lowBarking": 1,
+	"intelligence": 2,
+	"easyToTrain": 4,
+    "Friendliness": {
+      "kids": 5,
+      "otherDogs": 5
+    },
+    "tolerates": {
+      "hot": 3,
+      "cold": 5
+    },
+    "notes": []
+  },
+  {
+    "id": 8,
+    "name": "American Foxhound",
+    "size": 4,
+    "lowShedding": 1,
+    "easyToGroom": 3,
+    "highEnergy": 5,
+	"goodHealth": 5,
+	"lowBarking": 2,
+	"intelligence": 4,
+	"easyToTrain": 5,
+    "Friendliness": {
+      "kids": 5,
+      "otherDogs": 5
+    },
+    "tolerates": {
+      "hot": 4,
+      "cold": 4
+    },
+    "notes": []
+  },
+  {
+    "id": 9,
+    "name": "American Pit Bull Terrier",
+    "size": 3,
+    "lowShedding": 2,
+    "easyToGroom": 5,
+    "highEnergy": 4,
+	"goodHealth": 4,
+	"lowBarking": 3,
+	"intelligence": 4,
+	"easyToTrain": 4,
+    "Friendliness": {
+      "kids": 5,
+      "otherDogs": 5
+    },
+    "tolerates": {
+      "hot": 3,
+      "cold": 2
+    },
+    "notes": []
+  },
+  {
+    "id": 10,
+    "name": "American Water Spaniel",
+    "size": 3,
+    "lowShedding": 3,
+    "easyToGroom": 3,
+    "highEnergy": 5,
+	"goodHealth": 3,
+	"lowBarking": 3,
+	"intelligence": 3,
+	"easyToTrain": 4,
+    "Friendliness": {
+      "kids": 5,
+      "otherDogs": 5
+    },
+    "tolerates": {
+      "hot": 4,
+      "cold": 2
+    },
+    "notes": []
+  }
+]
