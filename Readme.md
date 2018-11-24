@@ -1,5 +1,5 @@
 # Animals
-# Api - get
+# Calling an api to get data 
 
 yarn
 
